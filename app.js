@@ -95,7 +95,6 @@ document.querySelector("#add").addEventListener("click", () => {
     }
 
 })
-debugger
 var timeNow = new Date().getTime();
 //now
 if(localStorage.getItem("now")){
